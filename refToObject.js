@@ -18,7 +18,7 @@ console.log(19 === '19'); //prints false as it compare the values and types
 var Shyam = {
 	printFirstName: function(){
 		console.log("My name is Shyam");
-		console.log(this === Shyam);
+		console.log(this === Shyam);  // this keyword 
 	}
 };
 
