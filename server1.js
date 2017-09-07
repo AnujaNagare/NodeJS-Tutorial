@@ -1,4 +1,4 @@
-// simple web server
+// using connect
 var http = require('http');
 var connect = require('connect');
 
